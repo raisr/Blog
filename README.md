@@ -37,11 +37,12 @@ Der typische Ablauf eines Artikels:
 
 2. **Ausarbeitung**
    - Der Inhalt wird schrittweise konkretisiert (`status:wip`)
-   - Der eigentliche Artikel entsteht als Markdown-Datei unter `articles/`
+   - Der eigentliche Artikel entsteht als Markdown-Datei unter `drafts/`
 
 3. **Veröffentlicht**
    - Der Artikel ist abgeschlossen und verlinkt (`status:published`)
    - Das Issue dient als Metadaten- und Einstiegspunkt
+   - Der Artikel wird in `articles/year/` verschoben 
 
 Issues bleiben bewusst erhalten, um Kontext, Historie und Gedankengänge nachvollziehbar zu machen.
 
