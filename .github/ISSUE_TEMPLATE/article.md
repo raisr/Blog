@@ -24,5 +24,5 @@ _Nur Stichpunkte – darf sich ändern_
 
 ---
 
-## 🧪 Notizen / Rohgedanken
+## Notizen / Rohgedanken
 _Unsortierte Gedanken, Links, Code, Zitate_
